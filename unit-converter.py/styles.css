@@ -1,0 +1,37 @@
+/* Custom styles for Streamlit app */
+body {
+    font-family: Arial, sans-serif;
+    background-color: black; 
+    color: white; 
+}
+
+/* Styling for main heading */
+h1 {
+    text-align: center;
+    color: white; 
+}
+
+/* Styling for result text */
+.result-text {
+    font-size: 24px;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+    margin-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Styling for title */
+.title-text {
+    font-size: 32px;
+    font-weight: bold;
+    color: cyan; 
+    text-align: center;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px; 
+    background-image: url('https://e7.pngegg.com/pngimages/623/634/png-clipart-unit-converter-conversion-of-units-currency-converter-units-of-measurement-android-unit-measurement-length-thumbnail.png'); /* Replace with your image path */
+    background-size: cover; /* Ensures the image covers the entire background */
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat; 
+}
